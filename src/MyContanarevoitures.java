@@ -357,7 +357,8 @@ case "Place2":{
 		chrono10.setChronoStyle(style);		
 
 	
-	
+
+
 		
 		vbox.getChildren().addAll(chrono,chrono2,chrono3,chrono4,chrono5,chrono6,chrono7,chrono8,chrono9,chrono10);
 		

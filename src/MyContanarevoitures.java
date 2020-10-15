@@ -71,7 +71,7 @@ public class MyContanarevoitures extends Application {
 		startMyContanarevoitures();
 
 		try {
-			primaryStage.initStyle(StageStyle.TRANSPARENT);
+		//	primaryStage.initStyle(StageStyle.TRANSPARENT);
 
 			Group root = new Group();
 			HBox hBox=new HBox(20);
